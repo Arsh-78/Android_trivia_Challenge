@@ -1,0 +1,3 @@
+# Android_trivia_Challenge
+This project was a part of fundamentals of android course in from udacity and google developer codes,it has the basic code along with the features mentioned in the homework/additional 
+part of the code labs try out the code to see the latest working version of the code...
